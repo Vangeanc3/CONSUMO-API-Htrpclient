@@ -1,0 +1,17 @@
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\bin\Debug\net6.0\consumo.exe
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\bin\Debug\net6.0\consumo.deps.json
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\bin\Debug\net6.0\consumo.runtimeconfig.json
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\bin\Debug\net6.0\consumo.dll
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\bin\Debug\net6.0\consumo.pdb
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\consumo.csproj.AssemblyReference.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\consumo.AssemblyInfoInputs.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\consumo.AssemblyInfo.cs
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\consumo.csproj.CoreCompileInputs.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\consumo.csproj.CopyComplete
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\consumo.dll
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\refint\consumo.dll
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\consumo.pdb
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\consumo.genruntimeconfig.cache
+C:\Users\ismae\OneDrive\Área de Trabalho\consumo\obj\Debug\net6.0\ref\consumo.dll
